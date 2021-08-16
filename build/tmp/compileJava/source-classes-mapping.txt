@@ -1,0 +1,12 @@
+br/com/weapon/entities/Silencer.java
+ br.com.weapon.entities.Silencer
+br/com/weapon/decorators/WeaponDecorator.java
+ br.com.weapon.decorators.WeaponDecorator
+br/com/weapon/entities/BaseWeapon.java
+ br.com.weapon.entities.BaseWeapon
+br/com/weapon/entities/GunSight.java
+ br.com.weapon.entities.GunSight
+br/com/weapon/runner/Main.java
+ br.com.weapon.runner.Main
+br/com/weapon/entities/Weapon.java
+ br.com.weapon.entities.Weapon
